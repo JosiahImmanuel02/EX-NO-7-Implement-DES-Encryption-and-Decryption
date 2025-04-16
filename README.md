@@ -71,6 +71,7 @@ int main() {
 
 ## Output:
 
+![Screenshot 2025-04-16 095107](https://github.com/user-attachments/assets/4fea5a42-33e9-423d-bc26-47bd5fff070c)
 
 
 ## Result:
